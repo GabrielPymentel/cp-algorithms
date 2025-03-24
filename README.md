@@ -1,2 +1,3 @@
 ### Este repositório é designado a mostrar algoritimos de problemas famosos de programação competitiva.
 Os algoritimos serão implementados com C++.
+Com o tempo prefiro implementar e mostrar de forma mais detalhada todos os algoritimos...
